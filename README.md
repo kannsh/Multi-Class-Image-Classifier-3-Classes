@@ -1,4 +1,4 @@
-# Multi Class Image Classifier
+# Download Dataset & Tips
 
 You can download the dataset used in my notebook from kaggle in the link provided below:
 https://www.kaggle.com/fushenggg/3-class-cat-dog-car-dataset
