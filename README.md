@@ -5,7 +5,7 @@
 # Download Dataset & Saved Model
 https://www.kaggle.com/fushenggg/3-class-cat-dog-car-dataset
 
-*Contains SavedModel1.h5 file to load model (Saves time from training)
+*Contains catdogcar1.hdf5 file to load model (Saves time from training)
 
 Unzip the file and place the 'cat-dog-car' folder into your CWD (current working directory) 
 
