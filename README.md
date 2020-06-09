@@ -27,9 +27,9 @@ Windows uses "\\" & Linux uses "//" for directory path
 3. Ensure all directory path for train_generators are specified as well
 
 # There are TWO WAYS to LOAD the folder from directory path
-1. filenames = os.listdir('C:\\Users\\kansh\\Desktop\\FYP\\cats_dogs_cars\\train\\'
+1. filenames = os.listdir('C:\Users\kansh\Desktop\Entire FYP Folder\FYP Notebooks (Workstation)\cats_dogs_cars\data'
 
-2. filenames = os.listdir('cats_dogs_cars\\train')
+2. filenames = os.listdir('Entire FYP Folder\FYP Notebooks (Workstation)\cats_dogs_cars\data')
 
 # Understanding Conv2d & Max Pooling layers
 
